@@ -8,7 +8,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Kim_Material
-    second: {fileID: 2100000, guid: 4c08f2a362801dc4d91ae87041e0e3b7, type: 2}
+    second: {fileID: 2100000, guid: 37ed01815f098784b998ba1407a037f6, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -594,7 +594,7 @@ ModelImporter:
     - name: LeftRing3
       parentName: LeftRing2
       position: {x: -0.017869808, y: 0, z: 0}
-      rotation: {x: 6.852158e-17, y: -3.1658703e-17, z: 4.3368087e-19, w: 1}
+      rotation: {x: 4.0766002e-17, y: -2.992398e-17, z: 3.469447e-18, w: 1}
       scale: {x: 1, y: 1, z: 1}
     - name: LeftRingEND
       parentName: LeftRing3
@@ -614,7 +614,7 @@ ModelImporter:
     - name: LeftPinky3
       parentName: LeftPinky2
       position: {x: -0.014440341, y: 8.46998e-17, z: 3.447792e-17}
-      rotation: {x: -2.4286129e-17, y: -8.2833046e-17, z: -3.946496e-17, w: 1}
+      rotation: {x: -1.7347235e-17, y: -8.3158307e-17, z: -2.6237693e-17, w: 1}
       scale: {x: 1, y: 1, z: 1}
     - name: LeftPinkyEND
       parentName: LeftPinky3
@@ -634,7 +634,7 @@ ModelImporter:
     - name: LeftMiddle3
       parentName: LeftMiddle2
       position: {x: -0.0207405, y: 2.4756613e-16, z: -2.4928158e-16}
-      rotation: {x: 0.017537374, y: 9.954158e-18, z: 1.3620771e-17, w: 0.9998462}
+      rotation: {x: 0.017537374, y: -4.0223163e-18, z: 6.7609727e-18, w: 0.9998462}
       scale: {x: 1, y: 1, z: 1}
     - name: LeftMiddleEND
       parentName: LeftMiddle3
@@ -649,12 +649,12 @@ ModelImporter:
     - name: LeftIndex2
       parentName: LeftIndex1
       position: {x: -0.022446223, y: -2.842171e-16, z: 0.00021792446}
-      rotation: {x: -1.6263033e-19, y: 1.0960606e-18, z: -6.938885e-17, w: 1}
+      rotation: {x: -1.01643954e-19, y: 6.606857e-19, z: -1.3877722e-17, w: 1}
       scale: {x: 1, y: 1, z: 1}
     - name: LeftIndex3
       parentName: LeftIndex2
       position: {x: -0.017869808, y: 0, z: 0}
-      rotation: {x: -1.6263033e-19, y: 1.0960606e-18, z: -6.938885e-17, w: 1}
+      rotation: {x: -1.01643954e-19, y: 6.606857e-19, z: -1.3877722e-17, w: 1}
       scale: {x: 1, y: 1, z: 1}
     - name: LeftIndexEND
       parentName: LeftIndex3
@@ -669,12 +669,12 @@ ModelImporter:
     - name: LeftThumb2
       parentName: LeftThumb1
       position: {x: -0.034832217, y: -1.7763567e-16, z: 0.00021792446}
-      rotation: {x: -6.938894e-18, y: 1.2490009e-16, z: -1.6653345e-16, w: 1}
+      rotation: {x: 3.469447e-18, y: 2.1510571e-16, z: -1.110223e-16, w: 1}
       scale: {x: 1, y: 1, z: 1}
     - name: LeftThumb3
       parentName: LeftThumb2
       position: {x: -0.022050312, y: -7.105427e-17, z: 0}
-      rotation: {x: -6.938894e-18, y: 1.2490009e-16, z: -1.6653345e-16, w: 1}
+      rotation: {x: 3.469447e-18, y: 2.1510571e-16, z: -1.110223e-16, w: 1}
       scale: {x: 1, y: 1, z: 1}
     - name: LeftThumbEND
       parentName: LeftThumb3
@@ -714,7 +714,7 @@ ModelImporter:
     - name: RightRing3
       parentName: RightRing2
       position: {x: 0.017869204, y: -0.00000052807025, z: 0.00000013951315}
-      rotation: {x: -1.6913554e-16, y: 1.6103785e-13, z: -1.2254087e-14, w: 1}
+      rotation: {x: -1.7087026e-16, y: 1.6103785e-13, z: -1.2267964e-14, w: 1}
       scale: {x: 1, y: 1, z: 1}
     - name: RightRingEND
       parentName: RightRing3
@@ -754,7 +754,7 @@ ModelImporter:
     - name: RightMiddle3
       parentName: RightMiddle2
       position: {x: 0.02073977, y: -0.000009795611, z: 0.00000007579034}
-      rotation: {x: 0.017537374, y: 1.6130031e-13, z: -3.659645e-15, w: 0.9998462}
+      rotation: {x: 0.017537374, y: 1.6128655e-13, z: -3.666826e-15, w: 0.9998462}
       scale: {x: 1, y: 1, z: 1}
     - name: RightMiddleEND
       parentName: RightMiddle3
@@ -769,12 +769,12 @@ ModelImporter:
     - name: RightIndex2
       parentName: RightIndex1
       position: {x: 0.02244579, y: 0.0000007074108, z: -0.00021792112}
-      rotation: {x: -1.2246469e-16, y: 1.60593e-13, z: -8.326673e-17, w: 1}
+      rotation: {x: -1.2246469e-16, y: 1.6059224e-13, z: -4.1633363e-17, w: 1}
       scale: {x: 1, y: 1, z: 1}
     - name: RightIndex3
       parentName: RightIndex2
       position: {x: 0.017870234, y: -0.0000022684776, z: -0.0000000055842566}
-      rotation: {x: -1.2246469e-16, y: 1.6062683e-13, z: -8.326673e-17, w: 1}
+      rotation: {x: -1.2246469e-16, y: 1.6062607e-13, z: -4.1633363e-17, w: 1}
       scale: {x: 1, y: 1, z: 1}
     - name: RightIndexEND
       parentName: RightIndex3
@@ -789,12 +789,12 @@ ModelImporter:
     - name: RightThumb2
       parentName: RightThumb1
       position: {x: 0.034831285, y: 0.00000008625992, z: -0.00021570183}
-      rotation: {x: 7.416637e-14, y: 6.661338e-15, z: -1.4430818e-13, w: 1}
+      rotation: {x: 7.427392e-14, y: 6.661338e-15, z: -1.4424573e-13, w: 1}
       scale: {x: 1, y: 1, z: 1}
     - name: RightThumb3
       parentName: RightThumb2
       position: {x: 0.022050155, y: 0.00000017435588, z: 0.0000009577295}
-      rotation: {x: 7.416637e-14, y: 6.661338e-15, z: -1.4430818e-13, w: 1}
+      rotation: {x: 7.427392e-14, y: 6.661338e-15, z: -1.4424573e-13, w: 1}
       scale: {x: 1, y: 1, z: 1}
     - name: RightThumbEND
       parentName: RightThumb3
